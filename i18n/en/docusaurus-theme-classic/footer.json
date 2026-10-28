@@ -1,0 +1,30 @@
+{
+  "link.title.LOSPOR": {
+    "message": "LOSPOR",
+    "description": "The title of the footer links column with title=LOSPOR in the footer"
+  },
+  "link.title.Отворен код": {
+    "message": "Open source",
+    "description": "The title of the footer links column with title=Отворен код in the footer"
+  },
+  "link.item.label.lospor.org": {
+    "message": "lospor.org",
+    "description": "The label of footer link with label=lospor.org linking to https://lospor.org"
+  },
+  "link.item.label.LOSPOR": {
+    "message": "LOSPOR",
+    "description": "The label of footer link with label=LOSPOR linking to https://app.lospor.org"
+  },
+  "link.item.label.Техническа документация": {
+    "message": "Technical documentation",
+    "description": "The label of footer link with label=Техническа документация linking to https://docs.lospor.org"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/kaloyandjunow-prog/lospor-user-guide"
+  },
+  "copyright": {
+    "message": "© 2026 LOSPOR · PeriOp Laboratories · AGPL-3.0",
+    "description": "The footer copyright"
+  }
+}

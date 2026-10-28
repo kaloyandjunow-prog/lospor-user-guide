@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.guide.category.getting-started": {
+    "message": "Getting started",
+    "description": "The label for category 'Първи стъпки' in sidebar 'guide'"
+  },
+  "sidebar.guide.category.clinician": {
+    "message": "Anaesthetists",
+    "description": "The label for category 'Анестезиолози' in sidebar 'guide'"
+  },
+  "sidebar.guide.category.head-of-department": {
+    "message": "Heads of department",
+    "description": "The label for category 'Началници на отделения' in sidebar 'guide'"
+  },
+  "sidebar.guide.category.administrator": {
+    "message": "Administrators and system administrators",
+    "description": "The label for category 'Администратори и системни администратори' in sidebar 'guide'"
+  },
+  "sidebar.guide.category.researcher": {
+    "message": "Researchers",
+    "description": "The label for category 'Изследователи' in sidebar 'guide'"
+  },
+  "sidebar.guide.category.reference": {
+    "message": "Reference",
+    "description": "The label for category 'Справочник' in sidebar 'guide'"
+  }
+}

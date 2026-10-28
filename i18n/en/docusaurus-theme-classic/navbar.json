@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "LOSPOR",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "LOSPOR",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Ръководство": {
+    "message": "User Guide",
+    "description": "Navbar item with label Ръководство"
+  },
+  "item.label.Към LOSPOR": {
+    "message": "Open LOSPOR",
+    "description": "Navbar item with label Към LOSPOR"
+  },
+  "item.label.Техническа документация": {
+    "message": "Technical docs",
+    "description": "Navbar item with label Техническа документация"
+  }
+}
