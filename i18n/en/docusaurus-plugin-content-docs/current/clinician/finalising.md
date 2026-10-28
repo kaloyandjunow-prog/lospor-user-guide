@@ -53,7 +53,5 @@ it, can read and print it.
 
 ## On the phone
 
-![A finished case on the phone](/img/screens/en/phone-case.png)
-
 The phone shows the same summary, with the same actions: edit a step, close,
 print and share.

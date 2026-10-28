@@ -97,8 +97,6 @@ administrator chooses questions from a catalogue that comes with LOSPOR.
 
 ## Risk scores
 
-![Risk scores](/img/screens/en/web-preop-risk.png)
-
 - **ASA** is required. LOSPOR **suggests** a class from the coded diagnoses,
   comorbidities and BMI, and names the reasons; you choose.
 - **RCRI**, **Apfel** (nausea and vomiting) and **STOP-BANG** are worked out as
@@ -142,5 +140,3 @@ the summary opens first: see [The preop summary and consent](./preop-summary.md)
 
 On the phone the same form is shown one section at a time: swipe sideways or
 tap the section names at the top.
-
-![The preoperative form on the phone](/img/screens/en/phone-preop.png)

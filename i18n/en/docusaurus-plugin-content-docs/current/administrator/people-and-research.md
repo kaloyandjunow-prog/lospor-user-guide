@@ -8,8 +8,6 @@ title: People and research access
 In a hospital installation nobody registers themselves: every account is
 created in Status, under **People → Accounts**.
 
-![Accounts](/img/screens/en/status-accounts.png)
-
 ## Creating a clinical or research account
 
 Under **Create a clinical or research account**:
@@ -48,6 +46,8 @@ the clinical app's **Admin** panel, which works the same way as in the cloud
 (see [The cloud admin panel](./cloud-admin.md#all-users)).
 
 ## Status administrators
+
+![Status administrators](/img/screens/en/status-accounts.png)
 
 At the top of the page. There are no levels: every Status administrator can
 do everything in Status, and none can see clinical records. Creating one needs

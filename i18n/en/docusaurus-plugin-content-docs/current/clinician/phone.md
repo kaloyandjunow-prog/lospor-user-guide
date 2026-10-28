@@ -59,8 +59,6 @@ entry, **📊 Chart**, **↓ Now** and **End case** at the bottom.
 
 ## The case screen
 
-![A finished case on the phone](/img/screens/en/phone-case.png)
-
 Tapping a case opens its screen: the preoperative, intraoperative and
 postoperative records as cards. From here:
 

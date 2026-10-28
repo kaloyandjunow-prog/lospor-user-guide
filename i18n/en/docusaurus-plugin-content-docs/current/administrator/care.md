@@ -16,8 +16,6 @@ be undone**, and what is **checked afterwards**.
 
 ## Updates
 
-![Updates](/img/screens/en/status-release.png)
-
 The page shows the installed version, the newest published, and whether one
 is downloaded and verified.
 

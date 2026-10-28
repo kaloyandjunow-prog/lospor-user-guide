@@ -66,7 +66,5 @@ finished.
 
 ## On the phone
 
-![The postoperative step on the phone](/img/screens/en/phone-postop.png)
-
 The same sections, one after the other. Vitals use the same − / + controls;
 tap the number to type it.
